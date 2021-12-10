@@ -20,4 +20,4 @@ You can join my discord using this invite https://discord.gg/Y59DddqZZR please j
 You must have ProtocolLib installed obviously for anything to work if you do not the sever will fail to start, you must also have a server above the version of 1.17 and Java 16+ or else it will fail because NMS likes changing things.
 
 ## License
-This project is licensed under [Eclipse Public License](https://github.com/HyperSkys/Calculator/blob/main/LICENSE)
+This project is licensed under [Eclipse Public License](https://github.com/HyperSkys/ServerPatcher/blob/main/LICENSE)
